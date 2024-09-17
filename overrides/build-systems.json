@@ -5224,6 +5224,21 @@
   "django-3": [
     "setuptools"
   ],
+  "django-lifecycle": [
+    "setuptools"
+  ],
+  "django-browser-reload": [
+    "setuptools"
+  ],
+  "django-sendgrid-v5": [
+    "setuptools"
+  ],
+  "django-template-partials": [
+    "flit-core"
+  ],
+  "django-tree-queries": [
+    "hatchling"
+  ],
   "django-4": [
     "setuptools"
   ],
@@ -7591,7 +7606,9 @@
     "setuptools"
   ],
   "fsspec": [
-    "setuptools"
+    "setuptools",
+    "hatchling",
+    "hatch-vcs"
   ],
   "fsspec-xrootd": [
     "setuptools",
