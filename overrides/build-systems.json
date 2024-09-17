@@ -7606,9 +7606,9 @@
     "setuptools"
   ],
   "fsspec": [
-    "setuptools",
+    "hatch-vcs",
     "hatchling",
-    "hatch-vcs"
+    "setuptools"
   ],
   "fsspec-xrootd": [
     "setuptools",
