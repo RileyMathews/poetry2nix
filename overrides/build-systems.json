@@ -14506,6 +14506,10 @@
     {
       "buildSystem": "hatch-fancy-pypi-readme",
       "from": "1.15.0"
+    },
+    {
+      "buildSystem": "maturin",
+      "from": "1.52.0"
     }
   ],
   "openai-triton": [
