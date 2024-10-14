@@ -14495,22 +14495,7 @@
     "setuptools"
   ],
   "openai": [
-    {
-      "buildSystem": "setuptools",
-      "until": "1.0.0"
-    },
-    {
-      "buildSystem": "hatchling",
-      "from": "1.0.0"
-    },
-    {
-      "buildSystem": "hatch-fancy-pypi-readme",
-      "from": "1.15.0"
-    },
-    {
-      "buildSystem": "maturin",
-      "from": "1.50.0"
-    }
+    "maturin"
   ],
   "openai-triton": [
     "setuptools"
