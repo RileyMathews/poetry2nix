@@ -14509,7 +14509,7 @@
     },
     {
       "buildSystem": "maturin",
-      "from": "1.52.0"
+      "from": "1.50.0"
     }
   ],
   "openai-triton": [
